@@ -1,0 +1,24 @@
+{
+  "name": "ng-faux-dom",
+  "version": "0.1.0",
+  "description": "Allow third party libraries to work with Angular's DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustInToCoding/ng-faux-dom.git"
+  },
+  "keywords": [
+    "faux-dom",
+    "faux",
+    "dom"
+  ],
+  "author": "Justin Steenhuis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustInToCoding/ng-faux-dom/issues"
+  },
+  "homepage": "https://github.com/JustInToCoding/ng-faux-dom#readme"
+}
